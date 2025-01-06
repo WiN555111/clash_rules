@@ -22,7 +22,7 @@ payload:
   - DOMAIN-SUFFIX,keepfrds.com
   - DOMAIN-SUFFIX,hhanclub.top
   - DOMAIN-SUFFIX,hdsky.me
-  - DOMAIN-SUFFIX,audiences.me
+#  - DOMAIN-SUFFIX,audiences.me
   - DOMAIN-SUFFIX,pt.ecust.pp.ua
   - DOMAIN-SUFFIX,leaves.red
   - DOMAIN-SUFFIX,hdhome.org
